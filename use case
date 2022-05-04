@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-05-04T03:48:07.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="68iMbgS0iBZU0X2X_Ok5" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-04T03:50:04.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SC50oyd_W6oo-OR-o2Lt" version="17.5.0" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1572" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SleqdZ_mS1b-c1cHtrAA-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="490" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="SleqdZ_mS1b-c1cHtrAA-4" value="일반 고등학생 회원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="340" width="30" height="60" as="geometry" />
         </mxCell>
@@ -22,8 +19,14 @@
         <mxCell id="SleqdZ_mS1b-c1cHtrAA-10" value="학과 검색" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SleqdZ_mS1b-c1cHtrAA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SleqdZ_mS1b-c1cHtrAA-12" target="SleqdZ_mS1b-c1cHtrAA-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SleqdZ_mS1b-c1cHtrAA-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SleqdZ_mS1b-c1cHtrAA-12" target="SleqdZ_mS1b-c1cHtrAA-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SleqdZ_mS1b-c1cHtrAA-12" value="진로 적성 검사 추천" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SleqdZ_mS1b-c1cHtrAA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SleqdZ_mS1b-c1cHtrAA-13" target="SleqdZ_mS1b-c1cHtrAA-22">
           <mxGeometry relative="1" as="geometry" />
@@ -55,7 +58,7 @@
         <mxCell id="SleqdZ_mS1b-c1cHtrAA-29" value="성격 유형 기반 검사" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SleqdZ_mS1b-c1cHtrAA-30" value="성격 유형 기반 검사" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SleqdZ_mS1b-c1cHtrAA-30" value="인적성 검사" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
